@@ -1,0 +1,14 @@
+.text {
+  color: red;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 12px;
+  background-color: transparent;
+  border: none;
+}
+
+.color {
+  color: blue;
+}
